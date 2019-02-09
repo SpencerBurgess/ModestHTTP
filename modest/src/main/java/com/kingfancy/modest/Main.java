@@ -1,5 +1,6 @@
 package com.kingfancy.modest;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.util.Date;
@@ -16,7 +17,8 @@ import com.kingfancy.modest.Server;
  */
 public class Main {
 	
-	static final int PORT = 8080;
+	static final int PORT = 3080;
+	
 	static final boolean verbose = true;
 	
     public static void main( String[] args ) {
