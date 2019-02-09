@@ -17,7 +17,7 @@ import com.kingfancy.modest.Server;
  */
 public class Main {
 	
-	static final int PORT = 3080;
+	static final int PORT = 8080;
 	
 	static final boolean verbose = true;
 	
